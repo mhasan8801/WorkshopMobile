@@ -19,3 +19,9 @@ AutoCompleteTextView :
 RicyclerView :
 ![recycle2](https://user-images.githubusercontent.com/75104965/136178335-913f356f-e390-45d5-9a0e-ae2adb76255a.png)
 ![recycle1](https://user-images.githubusercontent.com/75104965/136178340-a71360d6-9802-44cc-a5ae-1cbfdc911f78.png)
+
+FragmentBottomNavigation :
+![fragment1](https://user-images.githubusercontent.com/75104965/136745647-d930c8a4-ff45-45f8-93ad-93257137b891.png)
+![fragment2](https://user-images.githubusercontent.com/75104965/136745657-fddaeecd-489d-43ea-989a-fa930a7674e9.png)
+![fragment3](https://user-images.githubusercontent.com/75104965/136745668-e9ad3f10-6eb6-43e7-9287-cf2f84de62e8.png)
+![fragment4](https://user-images.githubusercontent.com/75104965/136745684-9ff80133-583e-4153-9a01-ee51c598f55e.png)
