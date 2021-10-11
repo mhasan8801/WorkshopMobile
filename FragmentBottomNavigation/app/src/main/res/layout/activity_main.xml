@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/body_container"
+    android:background="@color/light_white"
+    tools:context=".MainActivity">
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/round_corner"
+        android:elevation="2dp"
+        app:menu="@menu/item_menu"
+        app:itemIconSize="30dp"
+        app:itemRippleColor="@android:color/transparent"
+        app:labelVisibilityMode="unlabeled"
+        app:itemIconTint="@drawable/item_selector"
+        android:id="@+id/bottom_navigation"/>
+
+<!--        Setting untuk bottom navigation seperti:-->
+<!--        -alignParentBottom= true untuk menempatkan dibawah-->
+<!--        -margin untuk memposisikan fragment sedikit di tengah-->
+<!--        -memanggil background yang sudah diatur di drawable/round_corner-->
+<!--        -dan memanggil item_menu untuk mengatur menu fragment-->
+<!--        -itemIconSize untuk ukuran icon fragment-->
+<!--        -itemRippleColor untuk mengatur transparansi fragment-->
+<!--        -labelVisibilityMode = unlabeled untuk menyembunyikan labek/text pada icon-->
+<!--        -itemIconTint juga untuk mengatur gaya/style dari icon fragment-->
+
+
+</RelativeLayout>
