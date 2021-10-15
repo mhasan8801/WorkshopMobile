@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingTop="10dp"
+    tools:context=".Main2Activity">
+
+    <TextView
+        android:id="@+id/textView_162312"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="View Data"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/txtnim_162312"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textView_162312"
+        android:text="Nim :"/>
+
+    <TextView
+        android:id="@+id/txtnama_162312"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/txtnim_162312"
+        android:text="Nama :"/>
+
+    <TextView
+        android:id="@+id/txtalamat_162312"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/txtnama_162312"
+        android:text="Alamat :"/>
+
+    <TextView
+        android:id="@+id/txtJK_162312"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/txtalamat_162312"
+        android:text="Jenis Kelamin :"/>
+
+    <Button
+        android:id="@+id/btnback_162312"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/txtJK_162312"
+        android:layout_below="@+id/txtJK_162312"
+        android:text="Back"/>
+
+</RelativeLayout>
