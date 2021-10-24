@@ -25,3 +25,8 @@ FragmentBottomNavigation :
 ![fragment2](https://user-images.githubusercontent.com/75104965/136745657-fddaeecd-489d-43ea-989a-fa930a7674e9.png)
 ![fragment3](https://user-images.githubusercontent.com/75104965/136745668-e9ad3f10-6eb6-43e7-9287-cf2f84de62e8.png)
 ![fragment4](https://user-images.githubusercontent.com/75104965/136745684-9ff80133-583e-4153-9a01-ee51c598f55e.png)
+
+Intent :
+![intent1](https://user-images.githubusercontent.com/75104965/137411348-6ef5bedb-d400-4c3d-b091-d56fcfd22bd8.png)
+![intent2](https://user-images.githubusercontent.com/75104965/137411359-b68d71f5-f1b3-41d1-8cbe-59452556bbe7.png)
+![intent3](https://user-images.githubusercontent.com/75104965/137411366-186284ad-db24-4d8d-ab8f-42074406f8e3.png)
